@@ -10,4 +10,5 @@ for i in range(1, 8):
         contadordemaior += 1
     else:
         contadordemenor += 1
-print('Ao todo, temos {} pessoas na maioridade \nE também tivemos {} pessoas de menor!'.format(contadordemaior, contadordemenor))
+print('Ao todo, temos {} pessoas na maioridade \n'
+      'E também tivemos {} pessoas de menor!'.format(contadordemaior, contadordemenor))
